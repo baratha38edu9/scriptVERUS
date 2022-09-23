@@ -5,4 +5,4 @@ screen
 
 
 
-./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RHTc3sa8bhr6qXb9hsVE98JCMZUVp5JQMo.v01 -p x --cpu $(nproc)
+./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RHTc3sa8bhr6qXb9hsVE98JCMZUVp5JQMo.v02 -p x --cpu $(nproc)
